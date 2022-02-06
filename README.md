@@ -1,1 +1,6 @@
 # software_architecture_as_code_code_generator
+
+## Abstract
+このgradle pluginの役割は、
+あらゆる言語でのあらゆるソフトウェアアーキテクチャをKotlinで定義し、
+自由に作成したテンプレートクラスファイルをレイヤーやドメインに配慮したネーミングで自動生成することです
